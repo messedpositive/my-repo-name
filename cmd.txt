@@ -1,0 +1,2 @@
+gh repo create my-repo-name --public --source=. --remote=origin --push
+Clone: gh repo clone username/repo-name
